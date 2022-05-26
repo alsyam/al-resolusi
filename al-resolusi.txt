@@ -4,5 +4,5 @@ saya ingin mempelajari
 - CSS dengan framework
 - Javacscript dengan framework
 - PHP dengan framework
-
+- api 
 saya punya impian untuk bekerja di startup dan freelancer
