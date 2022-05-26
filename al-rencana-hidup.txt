@@ -1,6 +1,7 @@
 Rencana Hidup
 -kerja
  --start up
+   ~tokopedia 
 -bikin konten
  --stoik
  --financial
