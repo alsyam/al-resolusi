@@ -3,3 +3,4 @@ Rencana Hidup
  --start up
 -bikin konten
  --stoik
+ --financial
