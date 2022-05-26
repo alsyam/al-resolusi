@@ -1,6 +1,8 @@
 Rencana Hidup
 -kerja
  --start up
+   ~tokopedia 
+   ~shopee
 -bikin konten
  --stoik
  --financial
