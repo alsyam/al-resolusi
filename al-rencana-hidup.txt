@@ -1,6 +1,6 @@
 Rencana Hidup
 -kerja
  --start up
+    ~lazada
 -bikin konten
  --stoik
- --financial
